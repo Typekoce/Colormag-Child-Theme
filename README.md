@@ -1,4 +1,4 @@
-# Child Theme
+#Colormag Child Theme
 
 One Paragraph of project description goes here
 
